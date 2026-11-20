@@ -4,9 +4,9 @@
 
 ## Integrantes
 
-- Denis Eduardo Quintana
 - Esteban Rivas Molina
 - Roberto Rafael Saavedra
+- Denis Eduardo Quintana
 
 ## Descripción del trabajo
 
