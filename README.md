@@ -33,7 +33,7 @@ Los archivos solicitados para la entrega son:
 - opt.tar.gz
 - www_dir.tar.gz
 - backup_dir.tar.gz
-- var.tar.gz`, dividido en partes.
+- var.tar.gz, dividido en partes.
 
 ## Aclaración sobre los backups
 
